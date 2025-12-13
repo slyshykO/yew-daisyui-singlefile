@@ -3,6 +3,8 @@
 This is a minimal example of a Yew app compiled to WebAssembly and bundled
 with Vite, using Tailwind CSS 4 and DaisyUI 5 **without any CDNs**.
 
+![Screenshot](docs/1.png)
+
 The build uses `vite-plugin-singlefile` so the production output is a single
 `frontend/dist/index.html` file with JS, CSS, and WASM all inlined.
 
