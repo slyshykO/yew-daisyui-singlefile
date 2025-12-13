@@ -1,0 +1,6 @@
+/* Tailwind CSS 4 + DaisyUI 5, fully local */
+@import "tailwindcss" source("../..");
+
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark, cupcake;
+}
