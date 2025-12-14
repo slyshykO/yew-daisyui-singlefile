@@ -1,7 +1,7 @@
-# Yew + DaisyUI + Tailwind 4 + Vite (Single HTML file)
+# Yew + DaisyUI + Tailwind + Vite (Single HTML file)
 
 This is a minimal example of a Yew app compiled to WebAssembly and bundled
-with Vite, using Tailwind CSS 4 and DaisyUI 5 **without any CDNs**.
+with Vite, using Tailwind CSS and DaisyUI **without any CDNs**.
 
 ![Screenshot](docs/1.png)
 
@@ -11,7 +11,7 @@ The build uses `vite-plugin-singlefile` so the production output is a single
 ## Structure
 
 - `my-yew-app/` — Rust crate (Yew app built as `cdylib` via `wasm-pack`)
-- `frontend/`   — Vite + Tailwind 4 + DaisyUI 5 + singlefile plugin
+- `frontend/`   — Vite + Tailwind + DaisyUI + singlefile plugin
 
 ## Commands
 

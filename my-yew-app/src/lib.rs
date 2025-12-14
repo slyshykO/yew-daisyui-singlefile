@@ -16,7 +16,7 @@ pub fn app() -> Html {
                 <div class="card-body">
                     <h2 class="card-title">{"Yew + DaisyUI + Vite"}</h2>
                     <p class="text-sm opacity-80">
-                        {"Single-file demo with local Tailwind 4 + DaisyUI 5, no CDNs."}
+                        {"Single-file demo with local Tailwind + DaisyUI, no CDNs."}
                     </p>
 
                     <div class="mt-6 flex items-center gap-4">
